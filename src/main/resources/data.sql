@@ -1,4 +1,4 @@
-insert into svc_table values(1,'첫번째 후원 제목','2019-02-23','2019-01-23',3,2000000,4000000,1,'HANA','123-1230-12343','https://www.worldvision.or.kr/index.asp');
+insert into svc_table values(1,'유니세프 정기 후원','2019-02-23','2019-01-23',3,200000,400000,1,'하나은행','123-1230-12343','https://www.unicef.or.kr/join/regular_support.asp?TrackCode=pc_gnb_pledge');
 insert into svc_table values(
 	2,
 	'두번째 후원 제목',

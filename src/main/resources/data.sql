@@ -7,7 +7,7 @@ insert into svc_table values(
 	3,
 	8000000,
 	8000000,
-	4,
+	423,
 	'하나은행',
 	'345-3453-23423',
 	'https://support.childfund.or.kr/regularSpon/regular.do'	
@@ -20,7 +20,7 @@ insert into svc_table values(
 	4,
 	24500000,
 	60000000,
-	8,
+	852,
 	'하나은행',
 	'456-3233-23563',
 	'https://donate.greenpeace.or.kr/'	
@@ -33,7 +33,7 @@ insert into svc_table values(
 	2,
 	5280000,
 	10000000,
-	2,
+	23,
 	'하나은행',
 	'123-456-547456',
 	'http://www.miral.org/donate/regular.asp'	
@@ -46,7 +46,7 @@ insert into svc_table values(
 	6,
 	300000,
 	300000,
-	8,
+	81,
 	'하나은행',
 	'245-6456-76433',
 	'https://www.sc.or.kr/support/supportMonth.do'	
@@ -59,7 +59,7 @@ insert into svc_table values(
 	6,
 	400000,
 	400000,
-	44,
+	2,
 	'하나은행',
 	'654-5423-245743',
 	'https://www.msf.or.kr/monthly'	
@@ -67,12 +67,12 @@ insert into svc_table values(
 insert into svc_table values(
 	7,
 	'굿피플 정기후원',
-	'2019-12-23',
-	'2019-01-23',
+	'2019-09-02',
+	'2019-03-23',
 	6,
 	676000,
 	700000,
-	44,
+	26,
 	'하나은행',
 	'654-5423-245743',
 	'https://www.goodpeople.or.kr/sponsor/regular_sponsor.php'	
@@ -80,12 +80,12 @@ insert into svc_table values(
 insert into svc_table values(
 	8,
 	'월드비전 정기후원',
-	'2019-12-23',
-	'2019-01-23',
+	'2019-09-23',
+	'2019-02-01',
 	6,
 	323000,
 	800000,
-	44,
+	123,
 	'하나은행',
 	'654-5423-245743',
 	'https://m.worldvision.or.kr/hope/sponsorship_select.asp'	
@@ -93,12 +93,12 @@ insert into svc_table values(
 insert into svc_table values(
 	9,
 	'굿네이버스 정기후원',
-	'2019-12-23',
-	'2019-01-23',
+	'2019-12-31',
+	'2019-01-01',
 	6,
 	700000,
 	700000,
-	44,
+	87,
 	'하나은행',
 	'654-5423-245743',
 	'https://www.goodneighbors.kr/support_pay/regular.gn'	
@@ -106,12 +106,12 @@ insert into svc_table values(
 insert into svc_table values(
 	10,
 	'UN 난민 기구 후원',
-	'2019-12-23',
-	'2019-01-23',
+	'2019-08-30',
+	'2019-03-01',
 	6,
 	241200,
 	900000,
-	44,
+	41,
 	'하나은행',
 	'654-5423-245743',
 	'https://www.unhcr.or.kr/unhcr/program/donate_row/support01.jsp'	
@@ -119,12 +119,12 @@ insert into svc_table values(
 insert into svc_table values(
 	11,
 	'한코리아 정기후원',
-	'2019-12-23',
-	'2019-01-23',
+	'2019-09-30',
+	'2019-02-01',
 	6,
 	53300,
 	500000,
-	44,
+	67,
 	'하나은행',
 	'654-5423-245743',
 	'http://www.hankorea.or.kr/html/support_00.php'	
@@ -132,12 +132,12 @@ insert into svc_table values(
 insert into svc_table values(
 	12,
 	'기아대책 후원',
-	'2019-12-23',
-	'2019-01-23',
+	'2019-12-25',
+	'2019-02-09',
 	6,
 	430000,
 	430000,
-	44,
+	175,
 	'하나은행',
 	'654-5423-245743',
 	'https://kfhi.or.kr/apps/support/products.asp'	
@@ -145,12 +145,12 @@ insert into svc_table values(
 insert into svc_table values(
 	13,
 	'굿윌스토어 정기후원',
-	'2019-12-23',
-	'2019-01-23',
+	'2019-11-30',
+	'2019-03-30',
 	6,
 	54200,
 	600000,
-	44,
+	241,
 	'하나은행',
 	'654-5423-245743',
 	'http://www.miralgoodwill.org/sponsor/fund/periodic/'	
@@ -163,7 +163,7 @@ insert into svc_table values(
 	6,
 	54200,
 	400000,
-	44,
+	261,
 	'하나은행',
 	'654-5423-245743',
 	'http://puna.or.kr/%ec%a0%95%ea%b8%b0%ed%9b%84%ec%9b%90'	

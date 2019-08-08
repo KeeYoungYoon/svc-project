@@ -14,6 +14,6 @@ node{
     }
     stage('Docker Run!'){
         
-        sh 'docker run -p 8080:8080 skcc_svc_project:0.0.1'
+        sh 'docker run -d -p 8080:8080 skcc_svc_project:0.0.1'
     }
 }

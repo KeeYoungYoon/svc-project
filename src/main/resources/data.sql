@@ -96,46 +96,111 @@ insert into svc_table values(
 	'2019-12-23',
 	'2019-01-23',
 	6,
-	542300,
+	700000,
 	700000,
 	44,
 	'하나은행',
 	'654-5423-245743',
 	'https://www.goodneighbors.kr/support_pay/regular.gn'	
 );
+insert into svc_table values(
+	10,
+	'UN 난민 기구 후원',
+	'2019-12-23',
+	'2019-01-23',
+	6,
+	241200,
+	900000,
+	44,
+	'하나은행',
+	'654-5423-245743',
+	'https://www.unhcr.or.kr/unhcr/program/donate_row/support01.jsp'	
+);
+insert into svc_table values(
+	11,
+	'한코리아 정기후원',
+	'2019-12-23',
+	'2019-01-23',
+	6,
+	53300,
+	500000,
+	44,
+	'하나은행',
+	'654-5423-245743',
+	'http://www.hankorea.or.kr/html/support_00.php'	
+);
+insert into svc_table values(
+	12,
+	'기아대책 후원',
+	'2019-12-23',
+	'2019-01-23',
+	6,
+	430000,
+	430000,
+	44,
+	'하나은행',
+	'654-5423-245743',
+	'https://kfhi.or.kr/apps/support/products.asp'	
+);
+insert into svc_table values(
+	13,
+	'굿윌스토어 정기후원',
+	'2019-12-23',
+	'2019-01-23',
+	6,
+	54200,
+	600000,
+	44,
+	'하나은행',
+	'654-5423-245743',
+	'http://www.miralgoodwill.org/sponsor/fund/periodic/'	
+);
+insert into svc_table values(
+	14,
+	'푸른나눔 정기후원',
+	'2019-12-23',
+	'2019-01-23',
+	6,
+	54200,
+	400000,
+	44,
+	'하나은행',
+	'654-5423-245743',
+	'http://puna.or.kr/%ec%a0%95%ea%b8%b0%ed%9b%84%ec%9b%90'	
+);
 
 insert into svc_comments values(
 	default,
 	1,
 	'commenter_1',
-	'좋아요',
+	'좋은 후원이네요ㅎㅎ',
 	'2019-01-23'
 );
 insert into svc_comments values(
 	default,
 	2,
 	'commenter_2',
-	'ㅎㅎ',
+	'후원했습니당',
 	'2019-01-23'
 );
 insert into svc_comments values(
 	default,
 	1,
 	'commenter_3',
-	'???',
+	'입금했습니당ㅎㅎ',
 	'2019-01-23'
 );
 insert into svc_comments values(
 	default,
 	1,
 	'commenter_4',
-	'ㅇㅇㅇ',
+	'입금 확인 부탁드립니다',
 	'2019-01-23'
 );
 insert into svc_comments values(
 	default,
 	1,
 	'commenter_6',
-	'굳굳굳',
+	'후원했습니당',
 	'2019-01-23'
 );

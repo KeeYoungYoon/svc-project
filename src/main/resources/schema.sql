@@ -9,7 +9,7 @@ create table svc_table(
 	likes INT NOT NULL,
 	account_src VARCHAR(10),
 	account_num VARCHAR(50),
-	content VARCHAR(50)
+	content VARCHAR(255)
 );
 create table svc_comments(
 	seq INT auto_increment ,

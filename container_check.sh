@@ -1,6 +1,6 @@
 #!/bin/sh
 if [ -z $(docker ps -q) ]; then
- echo '0'
+ echo 'nothing to kill'
 else
- echo '1'
+ docker kill $(docker ps -q)
 fi

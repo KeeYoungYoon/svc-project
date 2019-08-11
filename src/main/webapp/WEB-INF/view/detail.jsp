@@ -307,7 +307,7 @@ function goMain(){
 								                                <div class="card-body">
 								                                    <!-- <canvas id="chartjs_bar_horizontal"></canvas> -->
 								                                	
-								                                	<iframe src="<%=content%>" frameborder="0" width="100%" height="300" marginwidth="10" marginheight="10"  scrolling="yes"></iframe>
+								                                	<iframe src="<%=content%>" frameborder="0" width="100%" height="600" marginwidth="10" marginheight="10"  scrolling="yes"></iframe>
 								                                 </div>
 								                            </div>
 								                        </div>

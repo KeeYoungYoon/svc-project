@@ -193,7 +193,7 @@ function goMain(){
                        
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link" href="javascript:goMain();"><!-- <i class="fa fa-fw fa-user-circle"> </i>-->행복 펀딩 현황 <!-- <span class="badge badge-success">6</span> --></a>
+                                <a class="nav-link" href="javascript:goMain();"><!-- <i class="fa fa-fw fa-user-circle"> </i>-->행복 펀딩 후원 현황 <!-- <span class="badge badge-success">6</span> --></a>
                        			
                             </li>
                             <li class="nav-item">

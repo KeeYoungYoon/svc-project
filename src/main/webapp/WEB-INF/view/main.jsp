@@ -85,15 +85,15 @@ function goStructure(){
                                 Menu
                             </li>
                            <li class="nav-item ">
-                                <a class="nav-link" href="javascript:goIntro();"><!-- <i class="fa fa-fw fa-user-circle"> </i>-->SVC 행복 펀딩이란? <!-- <span class="badge badge-success">6</span> --></a>
+                                <a class="nav-link" href="javascript:goIntro();"><!-- <i class="fa fa-fw fa-user-circle"> </i>-->행복 펀딩이란? <!-- <span class="badge badge-success">6</span> --></a>
                        
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link" href="javascript:goMain();"><!-- <i class="fa fa-fw fa-user-circle"> </i>-->SVC 행복 펀딩 <!-- <span class="badge badge-success">6</span> --></a>
+                                <a class="nav-link" href="javascript:goMain();"><!-- <i class="fa fa-fw fa-user-circle"> </i>-->행복 펀딩 후원 현황<!-- <span class="badge badge-success">6</span> --></a>
                        			
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link" href="javascript:goStructure();"><!-- <i class="fa fa-fw fa-user-circle"> </i>-->SVC 행복 펀딩 페이지 구조 <!-- <span class="badge badge-success">6</span> --></a>
+                                <a class="nav-link" href="javascript:goStructure();"><!-- <i class="fa fa-fw fa-user-circle"> </i>-->행복 펀딩 페이지 구조 <!-- <span class="badge badge-success">6</span> --></a>
                        			
                             </li>
                         </ul>
@@ -114,7 +114,7 @@ function goStructure(){
                     <div class="row">
                         <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12">
                             <div class="page-header">
-                                <h2 class="pageheader-title">SVC 후원 현황! </h2>
+                                <h2 class="pageheader-title">행복 펀딩 후원 현황! </h2>
                                 <p class="pageheader-text">Nulla euismod urna eros, sit amet scelerisque torton lectus vel mauris facilisis faucibus at enim quis massa lobortis rutrum.</p>
                                 
                             </div>
@@ -127,7 +127,7 @@ function goStructure(){
                             <!-- ============================================================== -->
                             <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12">
                                 <div class="card">
-                                    <h5 class="card-header">SVC</h5>
+                                    <h5 class="card-header"> </h5>
                                     <div class="card-body p-0">
                                         <div class="table-responsive">
                                             <table class="table">

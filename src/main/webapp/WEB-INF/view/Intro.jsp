@@ -86,15 +86,15 @@ function goStructure(){
                                 Menu
                             </li>
                            <li class="nav-item ">
-                                <a class="nav-link" href="javascript:goIntro();"><!-- <i class="fa fa-fw fa-user-circle"> </i>-->SVC 행복 펀딩이란? <!-- <span class="badge badge-success">6</span> --></a>
+                                <a class="nav-link" href="javascript:goIntro();"><!-- <i class="fa fa-fw fa-user-circle"> </i>-->행복 펀딩이란? <!-- <span class="badge badge-success">6</span> --></a>
 
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link" href="javascript:goMain();"><!-- <i class="fa fa-fw fa-user-circle"> </i>-->SVC 행복 펀딩  <!-- <span class="badge badge-success">6</span> --></a>
+                                <a class="nav-link" href="javascript:goMain();"><!-- <i class="fa fa-fw fa-user-circle"> </i>-->행복 펀딩 후원 현황 <!-- <span class="badge badge-success">6</span> --></a>
 
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link" href="javascript:goStructure();"><!-- <i class="fa fa-fw fa-user-circle"> </i>-->SVC 행복 펀딩 페이지 구조 <!-- <span class="badge badge-success">6</span> --></a>
+                                <a class="nav-link" href="javascript:goStructure();"><!-- <i class="fa fa-fw fa-user-circle"> </i>-->행복 펀딩 페이지 구조 <!-- <span class="badge badge-success">6</span> --></a>
 
                             </li>
                         </ul>
